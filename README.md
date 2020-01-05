@@ -21,5 +21,19 @@
 
 
 
+---
+界面一共有一下五个URL，分别对应不同的数据：
+> http://owenup.pythonanywhere.com/?
+
+> http://owenup.pythonanywhere.com/pkl?
+
+> http://owenup.pythonanywhere.com/renkou?
+
+> http://owenup.pythonanywhere.com/GDP?
+
+> http://owenup.pythonanywhere.com/ren_pinkunlv?
+
+
+
 
 
