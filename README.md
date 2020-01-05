@@ -5,19 +5,19 @@
 ---
 ### 成果：
 
-![Alt text](./1578237834274.png)
-![Alt text](./1578238117493.png)
-![Alt text](./1578238237719.png)
-![Alt text](./1578238254599.png)
-![Alt text](./1578238279842.png)
+![lrGwxP.png](https://s2.ax1x.com/2020/01/06/lrGwxP.png)
+![lrGd2t.png](https://s2.ax1x.com/2020/01/06/lrGd2t.png)
+![lrGDr8.png](https://s2.ax1x.com/2020/01/06/lrGDr8.png)
+![lrGrqS.png](https://s2.ax1x.com/2020/01/06/lrGrqS.png)
+![lrGyVg.png](https://s2.ax1x.com/2020/01/06/lrGyVg.png)
+
 
 #### 在页面上可以通过放大地图的方式，找到各国不同时间的贫困人口，贫困率，及两者之间的关系。
 
 ---
 ### 进阶使用/web_app动作描述
 用户可以选择拖动地图的方式，进行放大缩小，定位某个国家的数据，实时浏览。
-![Alt text](./1578238689920.png)
-
+![lrGzqO.png](https://s2.ax1x.com/2020/01/06/lrGzqO.png)
 
 
 
